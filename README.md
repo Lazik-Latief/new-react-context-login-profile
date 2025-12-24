@@ -1,9 +1,9 @@
-# React Context Login Profile
+# New React Context Login Profile 
 
-A simple and clean **React login & profile application** built to understand and practice **Context API** and global state management.
+This is a React-based **login and profile application** built to practice **Context API** and shared state management.
 
-This project demonstrates how user data can be shared across components without prop drilling, while also handling **multiple users** using arrays.
-
+The project uses an **array-based state** to temporarily store multiple user login details in memory, demonstrating how data can be added, updated, and accessed globally across components without prop drilling.
+ 
 ---
 
 ##  Features
